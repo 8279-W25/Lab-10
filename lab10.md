@@ -1,4 +1,4 @@
-# Lab 11
+# Lab 10
 
 1. Implement the morse code as a python dictionary. Only code the character and numbers present in the picture posted on Github.
 2. On your laptop:
